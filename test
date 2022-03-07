@@ -1,0 +1,2 @@
+	DD46272C17ADC3E6000A6A33 /* SOLWeatherData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SOLWeatherData.m; path = Model/SOLWeatherData.m; sourceTree = "<group>"; };
+		DD4F967117A8994300E0E7D0 /* Sol.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sol.app; sourceTree = BUILT_PRODUCTS_DIR; };
